@@ -1,9 +1,3 @@
-# SD-streams
-
-You can download Android version of the Application by clicking the "*Download App*" button below.
-### [Download App](https://github.com/shaay333/SDstreams/releases/download/v1.1/Sdflix.v1.1.apk)
-**Note:** Apple users, our developers are working on developing the IOS version of this Application. Expecting to be released with the next version.
-
 
 ## Description
 SDstreams is a mobile app to watch anime free without ads<br>
